@@ -1,5 +1,3 @@
-# DBDC_202604_Programacion_en_R_para_ciencia_de_datos
-Contiene el material y evaluaciones desarrollados durante el curso
 PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE <br>
 Facultad de Ingeniería <br>
 Educación Profesional <br>
